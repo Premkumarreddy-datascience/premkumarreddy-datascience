@@ -48,8 +48,7 @@
 
 </div>
 
-<!-- GIF from the Lottie animation -->
-<img src="https://raw.githubusercontent.com/Premkumarreddy-datascience/Premkumarreddy-datascience/main/assets/dashboard.gif" width="350" alt="dashboard-gif" />
+<img src="https://raw.githubusercontent.com/Premkumarreddy-datascience/premkumarreddy-datascience/main/Dashboard.gif" width="350" alt="dashboard-gif" />
 
 </div>
 
