@@ -18,28 +18,24 @@
 
 ## 🧠 Skills & Technologies
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+
+<div align="left">
 
 ### 🔹 Programming & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 ### 🔸 Python Libraries
 
-<p>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 ### 🔹 Machine Learning Techniques
 
@@ -50,12 +46,12 @@
 - Feature Engineering  
 - Model Evaluation & Optimization  
 
-</td>
-<td align="center" width="45%">
-  <img src="https://user-images.githubusercontent.com/13508274/284848174-d7b6b9d3-49e6-43ae-b354-4455089d0a5a.png" width="350" />
-</td>
-</tr>
-</table>
+</div>
+
+<!-- GIF from the Lottie animation -->
+<img src="https://raw.githubusercontent.com/Premkumarreddy-datascience/Premkumarreddy-datascience/main/assets/dashboard.gif" width="350" alt="dashboard-gif" />
+
+</div>
 
 ---
 
