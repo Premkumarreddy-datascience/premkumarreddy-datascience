@@ -10,7 +10,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: [kpremkumarreddy20011@gmail.com](mailto:kpremkumarreddy20011@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/prem-kumar-reddy-k-8b2796210)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prem-kumar-reddy-kothakapu-8b2796210/)  
 - 💻 [GitHub](https://github.com/Premkumarreddy-datascience)  
 - 🌐 [Portfolio Website](https://comforting-crepe-0ef7ad.netlify.app/)
 
@@ -40,7 +40,7 @@
 ### 🔹 Machine Learning Techniques
 
 - Supervised Learning (Regression, Classification)  
-- Unsupervised Learning (Clustering)  
+- Unsupervised Learning (Clustering, Association)  
 - Neural Networks  
 - Data Preprocessing & Cleaning  
 - Feature Engineering  
@@ -56,8 +56,8 @@
 
 ## 🎓 Education
 
-- 🎓 **M.Tech (Data Science)** – Jain University | *Expected: 2026* | SGPA: 7.5  
-- 🎓 **B.Tech (CSE)** – Vel Tech Institute | *2024* | CGPA: 8.0  
+- 🎓 **M.Tech (Data Science)** – Jain (Deemed-to-be) University | *Expected: 2026* | SGPA: 7.5  
+- 🎓 **B.Tech (CSE)** – Vel Tech Deemed University | *2024* | CGPA: 8.0  
 - 🏫 **12th Grade** – Sri Chaitanya Junior College | *2020* | 91%  
 - 🏫 **10th Grade** – Sri Chaitanya Techno School | *2018* | 98%
 
@@ -66,10 +66,10 @@
 ## 📜 Certifications
 
 - IBM: **Database and SQL for Data Science with Python**  
-- University of Washington: **Designing Autonomous AI**  
+- Microsoft: **Data Analysis and Visualization with Power BI**  
 - University of Michigan: **Inferential Statistical Analysis with Python**  
 - Packt: **Project Management Fundamentals**
-
+- University of Washington: **Designing Autonomous AI**
 ---
 
 ## 📈 GitHub Stats
