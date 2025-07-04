@@ -56,7 +56,7 @@
 
 ## 🎓 Education
 
-- 🎓 **M.Tech (Data Science)** – Jain (Deemed-to-be) University | *Expected: 2026* | SGPA: 7.5  
+- 🎓 **M.Tech (Data Science)** – Jain (Deemed-to-be) University | *Expected: 2026* | SGPA: 8.0  
 - 🎓 **B.Tech (CSE)** – Vel Tech Deemed University | *2024* | CGPA: 8.0  
 - 🏫 **12th Grade** – Sri Chaitanya Junior College | *2020* | 91%  
 - 🏫 **10th Grade** – Sri Chaitanya Techno School | *2018* | 98%
